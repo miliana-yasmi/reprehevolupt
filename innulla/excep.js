@@ -1,0 +1,1 @@
+span.textContent = node.value;
